@@ -1,0 +1,7 @@
+div.vTeni {
+    height: 100px;
+    width: 100px;
+    box-shadow: 0 0 6px 0 #000 inset;
+    background-image: url(android.png);
+    background-size: cover;
+}
